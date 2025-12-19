@@ -1,0 +1,1 @@
+The Pizza Sales Analysis Project reveals key sales trends, customer preferences, and product performance to drive revenue growth and operational efficiency. I worked with Power BI to design and present data visualizations.
